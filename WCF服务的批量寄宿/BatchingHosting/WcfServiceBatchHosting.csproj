@@ -8,8 +8,8 @@
     <ProjectGuid>{7797DD1C-6F22-49C1-93F1-A9D6620F9054}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Artech.BatchingHosting</RootNamespace>
-    <AssemblyName>Artech.BatchingHosting</AssemblyName>
+    <RootNamespace>Fred.WcfServiceBatchHosting</RootNamespace>
+    <AssemblyName>Fred.WcfServiceBatchHosting</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

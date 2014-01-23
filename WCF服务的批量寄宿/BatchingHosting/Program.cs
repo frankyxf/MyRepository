@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ServiceModel;
 
-namespace Artech.BatchingHosting
+namespace Fred.WcfServiceBatchHosting
 {
     class Program
     {

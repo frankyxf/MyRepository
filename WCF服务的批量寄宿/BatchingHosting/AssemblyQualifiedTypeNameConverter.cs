@@ -1,9 +1,9 @@
 ﻿using System;
-using System.Configuration;
 using System.ComponentModel;
+using System.Configuration;
 using System.Globalization;
 
-namespace Artech.BatchingHosting
+namespace Fred.WcfServiceBatchHosting
 {
     public class AssemblyQualifiedTypeNameConverter : ConfigurationConverterBase
     {

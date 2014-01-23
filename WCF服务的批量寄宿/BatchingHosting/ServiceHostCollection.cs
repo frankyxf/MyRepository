@@ -1,8 +1,8 @@
 ﻿using System;
-using System.ServiceModel;
 using System.Collections.ObjectModel;
+using System.ServiceModel;
 
-namespace Artech.BatchingHosting
+namespace Fred.WcfServiceBatchHosting
 {
     public class ServiceHostCollection : Collection<ServiceHost>, IDisposable
     {

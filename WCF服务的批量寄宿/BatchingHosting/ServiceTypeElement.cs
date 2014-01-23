@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Configuration;
 
-namespace Artech.BatchingHosting
+namespace Fred.WcfServiceBatchHosting
 {
     public class ServiceTypeElement : ConfigurationElement
     {

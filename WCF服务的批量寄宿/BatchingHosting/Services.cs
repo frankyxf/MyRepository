@@ -1,6 +1,6 @@
 ﻿using System.ServiceModel;
 
-namespace Artech.BatchingHosting
+namespace Fred.WcfServiceBatchHosting
 {
     [ServiceContract(Namespace = "http://www.artech.com")]
     public interface IFoo
